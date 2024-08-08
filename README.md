@@ -1,2 +1,2 @@
 # Support-Mathematical-Simulation
-A library that supports simulation of calculus-related problems
+A library that supports programming simulations of problems related to analysis
